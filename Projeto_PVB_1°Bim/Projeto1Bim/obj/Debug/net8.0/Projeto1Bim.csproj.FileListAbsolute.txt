@@ -1,0 +1,14 @@
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\bin\Debug\net8.0\Projeto1Bim.exe
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\bin\Debug\net8.0\Projeto1Bim.deps.json
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\bin\Debug\net8.0\Projeto1Bim.runtimeconfig.json
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\bin\Debug\net8.0\Projeto1Bim.dll
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\bin\Debug\net8.0\Projeto1Bim.pdb
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\obj\Debug\net8.0\Projeto1Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\obj\Debug\net8.0\Projeto1Bim.AssemblyInfoInputs.cache
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\obj\Debug\net8.0\Projeto1Bim.AssemblyInfo.cs
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\obj\Debug\net8.0\Projeto1Bim.csproj.CoreCompileInputs.cache
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\obj\Debug\net8.0\Projeto1Bim.dll
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\obj\Debug\net8.0\refint\Projeto1Bim.dll
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\obj\Debug\net8.0\Projeto1Bim.pdb
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\obj\Debug\net8.0\Projeto1Bim.genruntimeconfig.cache
+C:\Users\nickp\source\repos\Projeto1Bim\Projeto1Bim\obj\Debug\net8.0\ref\Projeto1Bim.dll
