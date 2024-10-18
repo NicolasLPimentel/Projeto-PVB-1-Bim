@@ -2,7 +2,7 @@
 * Colegio Técnico Antônio Teixeira Fernandes (Univap)
 * Curso Técnico em Informática - Data de Entrega: 26/03/2024
 * Autores do Projeto: Nicolas Lorena Pimentel
-*                                 Gabriel Curi de Lima
+* 
 * Turma: 2H
 * Atividade Proposta em aula
 * Observação:
